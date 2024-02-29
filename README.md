@@ -1,2 +1,2 @@
-# [Carlos Adrian Garcia Portfolio Website](https://www.carlosadriangarcia.com/)
-Personal website built with React, TypeScript and Tailwind CSS.
+# [Diego Ercoli Portfolio Website](https://diego-ercoli.github.io/)
+Personal website built with HTML, Javascript, CSS.
