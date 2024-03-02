@@ -1,10 +1,14 @@
 /*
 $(document).ready(function(){
-    //$("#nav-placeholder").load("nav.html");
+    $("#nav-placeholder").load("nav.html");
     $.get("nav.html", function(data){
         $("#nav-placeholder").replaceWith(data);
     });
-});*/
+});
+$(function(){
+  $("#nav-placeholder").load("nav.html");
+});
+*/
 fetch('nav.html')
 .then(res => res.text())
 .then(text => {
