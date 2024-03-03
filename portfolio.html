@@ -6,6 +6,22 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
   <title>Diego Portfolio</title>
+
+  <style>
+    .hover-zoom {
+      overflow: hidden;
+    }
+
+  .hover-zoom img {
+    transition: transform 0.5s ease;
+  }
+
+  .hover-zoom:hover img {
+    transform: scale(1.1);
+  }
+  </style>
+
+
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -27,6 +43,7 @@
   
   <!-- Custom JS-->
   <script src="assets/js/nav.js"></script> 
+  <script src="assets/js/portfolio.js"></script> 
 
 
 </head>
@@ -72,11 +89,11 @@
         </div>
         <div class="row">
           <div class="col-md-4">
-            <div class="service-box">
+            <div id="web_box" class="service-box" onclick="window.location.href='portfolio.html?web';" style="cursor: pointer;">
               <div class="service-ico">
                 <span class="ico-circle"><i class="bi bi-database check"></i></span>
               </div>
-              <div class="service-content">
+              <div id="web_box_content" class="service-content">
                 <h2 class="s-title">Web APP Development</h2>
                 <p class="s-description text-center">
                   Development of 3-tier architecture applications
@@ -85,7 +102,7 @@
             </div>
           </div>
           <div class="col-md-4">
-            <div class="service-box">
+            <div id="data_box" class="service-box" onclick="window.location.href='portfolio.html?data';" style="cursor: pointer;">
               <div class="service-ico">
                 <span class="ico-circle"><i class="bi bi-bar-chart-line-fill"></i></span>
               </div>
@@ -97,7 +114,7 @@
             </div>
           </div>
           <div class="col-md-4">
-            <div class="service-box">
+            <div id="ai_box"  class="service-box" onclick="window.location.href='portfolio.html?ai';" style="cursor: pointer;">
               <div class="service-ico">
                 <span class="ico-circle"><i class="bi bi-android2"></i></span>
               </div>
@@ -131,152 +148,68 @@
             </div>
           </div>
         </div>
-        <div class="row">
-          <div class="col-md-4">
-            <div class="work-box">
-              <a href="assets/img/work-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox">
-                <div class="work-img">
-                  <img src="assets/img/work-1.jpg" alt="" class="img-fluid">
-                </div>
-              </a>
-              <div class="work-content">
-                <div class="row">
-                  <div class="col-sm-8">
-                    <h2 class="w-title">Prova 1</h2>
-                    <div class="w-more">
-                      <span class="w-ctegory">Web Design</span> / <span class="w-date">18 Sep. 2018</span>
-                    </div>
-                  </div>
-                  <div class="col-sm-4">
-                    <div class="w-like">
-                      <a href="portfolio-details.html"> <span class="bi bi-plus-circle"></span></a>
-                    </div>
-                  </div>
-                </div>
+        <!-- ======= WEB-APP Portfolio Section ======= -->
+        <div id = 'web_section' class="row">
+          <div class="col-md-6">
+            <div class="card card-blog">
+              <div class="card-img hover-zoom">
+                <a href="#"><img src="assets/img/fantacalcio/rosa.png" alt="" class="img-fluid"></a>
               </div>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="work-box">
-              <a href="assets/img/work-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox">
-                <div class="work-img">
-                  <img src="assets/img/work-2.jpg" alt="" class="img-fluid">
-                </div>
-              </a>
-              <div class="work-content">
-                <div class="row">
-                  <div class="col-sm-8">
-                    <h2 class="w-title">Prova 2</h2>
-                    <div class="w-more">
-                      <span class="w-ctegory">Web Design</span> / <span class="w-date">18 Sep. 2018</span>
-                    </div>
-                  </div>
-                  <div class="col-sm-4">
-                    <div class="w-like">
-                      <a href="portfolio-details.html"> <span class="bi bi-plus-circle"></span></a>
-                    </div>
+              <div class="card-body">
+                <div class="card-category-box">
+                  <div class="card-category">
+                    <h6 class="category">WEB-APP</h6>
                   </div>
                 </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="work-box">
-              <a href="assets/img/work-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox">
-                <div class="work-img">
-                  <img src="assets/img/work-3.jpg" alt="" class="img-fluid">
-                </div>
-              </a>
-              <div class="work-content">
-                <div class="row">
-                  <div class="col-sm-8">
-                    <h2 class="w-title">Prova 3</h2>
-                    <div class="w-more">
-                      <span class="w-ctegory">Web Design</span> / <span class="w-date">18 Sep. 2018</span>
-                    </div>
-                  </div>
-                  <div class="col-sm-4">
-                    <div class="w-like">
-                      <a href="portfolio-details.html"> <span class="bi bi-plus-circle"></span></a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="work-box">
-              <a href="assets/img/work-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox">
-                <div class="work-img">
-                  <img src="assets/img/work-4.jpg" alt="" class="img-fluid">
-                </div>
-              </a>
-              <div class="work-content">
-                <div class="row">
-                  <div class="col-sm-8">
-                    <h2 class="w-title">Prova 4</h2>
-                    <div class="w-more">
-                      <span class="w-ctegory">Web Design</span> / <span class="w-date">18 Sep. 2018</span>
-                    </div>
-                  </div>
-                  <div class="col-sm-4">
-                    <div class="w-like">
-                      <a href="portfolio-details.html"> <span class="bi bi-plus-circle"></span></a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="work-box">
-              <a href="assets/img/work-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox">
-                <div class="work-img">
-                  <img src="assets/img/work-5.jpg" alt="" class="img-fluid">
-                </div>
-              </a>
-              <div class="work-content">
-                <div class="row">
-                  <div class="col-sm-8">
-                    <h2 class="w-title">Prova 5</h2>
-                    <div class="w-more">
-                      <span class="w-ctegory">Web Design</span> / <span class="w-date">18 Sep. 2018</span>
-                    </div>
-                  </div>
-                  <div class="col-sm-4">
-                    <div class="w-like">
-                      <a href="portfolio-details.html"> <span class="bi bi-plus-circle"></span></a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="work-box">
-              <a href="assets/img/work-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox">
-                <div class="work-img">
-                  <img src="assets/img/work-6.jpg" alt="" class="img-fluid">
-                </div>
-              </a>
-              <div class="work-content">
-                <div class="row">
-                  <div class="col-sm-8">
-                    <h2 class="w-title">Prova 6</h2>
-                    <div class="w-more">
-                      <span class="w-ctegory">Web Design</span> / <span class="w-date">18 Sep. 2017</span>
-                    </div>
-                  </div>
-                  <div class="col-sm-4">
-                    <div class="w-like">
-                      <a href="portfolio-details.html"> <span class="bi bi-plus-circle"></span></a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
+                <h3 class="card-title"><a href="#">Fantacalcio</a></h3>
+                <p class="card-description">
+                  Web platform allowing users to play "Fantacalcio" (Fantasy Football). With respect to the solutions present in the market, 
+                  this app contains innovative and peculiar aspects.
 
+                </p>
+              </div>
+              <div class="card-footer">
+                <div class="post-author">
+                  <a href="#">
+                    <img src="assets/img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+                    <span class="author">Diego Ercoli</span>
+                  </a>
+                </div>
+                <div class="post-date">
+                  <span class="bi bi-calendar"></span> 2017
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="card card-blog">
+              <div class="card-img">
+                <a href="#"><img src="assets/img/post-3.jpg" alt="" class="img-fluid"></a>
+              </div>
+              <div class="card-body">
+                <div class="card-category-box">
+                  <div class="card-category">
+                    <h6 class="category">WEB-APP</h6>
+                  </div>
+                </div>
+                <h3 class="card-title"><a href="#">See more ideas about Software</a></h3>
+                <p class="card-description">
+                  Join us on a journey where lines of code transform into immersive experiences, where algorithms shape our decisions, ...
+                 </p>
+              </div>
+              <div class="card-footer">
+                <div class="post-author">
+                  <a href="#">
+                    <img src="assets/img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+                    <span class="author"> Diego Ercoli</span>
+                  </a>
+                </div>
+                <div class="post-date">
+                  <span class="bi bi-clock"></span> 10 min
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </section><!-- End Portfolio Section -->
