@@ -11,14 +11,17 @@
     .hover-zoom {
       overflow: hidden;
     }
-
-  .hover-zoom img {
-    transition: transform 0.5s ease;
-  }
-
-  .hover-zoom:hover img {
-    transform: scale(1.1);
-  }
+    .hover-zoom img {
+      transition: transform 0.5s ease;
+    }
+    .hover-zoom:hover img {
+      transform: scale(1.1);
+    }
+    .card-img img {
+      height: 300px; /* Set the desired height for all images */
+      object-fit: cover; /* Maintain aspect ratio and cover container */
+      width: 100%; /* Ensure images fill the container width */
+    }
   </style>
 
 
@@ -141,8 +144,8 @@
               <h3 class="title-a">
                 Portfolio
               </h3>
-              <p class="subtitle-a">
-                List of projects
+              <p id="project_type" class="subtitle-a">
+                Choose a category
               </p>
               <div class="line-mf"></div>
             </div>
@@ -150,10 +153,11 @@
         </div>
         <!-- ======= WEB-APP Portfolio Section ======= -->
         <div id = 'web_section' class="row">
-          <div class="col-md-6">
+          <!-- Fantacalcio -->
+          <div class="col-md-6"> 
             <div class="card card-blog">
               <div class="card-img hover-zoom">
-                <a href="#"><img src="assets/img/fantacalcio/rosa.png" alt="" class="img-fluid"></a>
+                <a href="web_projects/fantacalcio.html"><img src="assets/img/fantacalcio/rosa.png" alt="" class="img-fluid"></a>
               </div>
               <div class="card-body">
                 <div class="card-category-box">
@@ -161,16 +165,15 @@
                     <h6 class="category">WEB-APP</h6>
                   </div>
                 </div>
-                <h3 class="card-title"><a href="#">Fantacalcio</a></h3>
+                <h3 class="card-title"><a href="web_projects/fantacalcio.html">Fantacalcio</a></h3>
                 <p class="card-description">
                   Web platform allowing users to play "Fantacalcio" (Fantasy Football). With respect to the solutions present in the market, 
                   this app contains innovative and peculiar aspects.
-
                 </p>
               </div>
               <div class="card-footer">
                 <div class="post-author">
-                  <a href="#">
+                  <a href="index.html">
                     <img src="assets/img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
                     <span class="author">Diego Ercoli</span>
                   </a>
@@ -180,11 +183,12 @@
                 </div>
               </div>
             </div>
-          </div>
-          <div class="col-md-6">
+          </div> <!-- End Fantacalcio Section -->
+          <!-- Turin Rentals -->
+          <div class="col-md-6"> 
             <div class="card card-blog">
-              <div class="card-img">
-                <a href="#"><img src="assets/img/post-3.jpg" alt="" class="img-fluid"></a>
+              <div class="card-img hover-zoom">
+                <a href="web_projects/turin_rentals.html"><img src="assets/img/turin_rentals/gruppi.png" alt="" class="img-fluid"></a>
               </div>
               <div class="card-body">
                 <div class="card-category-box">
@@ -192,24 +196,26 @@
                     <h6 class="category">WEB-APP</h6>
                   </div>
                 </div>
-                <h3 class="card-title"><a href="#">See more ideas about Software</a></h3>
+                <h3 class="card-title"><a href="web_projects/turin_rentals.html">Turin Rentals (Affitti Torino)</a></h3>
                 <p class="card-description">
-                  Join us on a journey where lines of code transform into immersive experiences, where algorithms shape our decisions, ...
-                 </p>
+                  This app connects students to affordable and convenient rental options by significantly easing the search.
+                </p>
               </div>
               <div class="card-footer">
                 <div class="post-author">
-                  <a href="#">
+                  <a href="index.html">
                     <img src="assets/img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
-                    <span class="author"> Diego Ercoli</span>
+                    <span class="author">Diego Ercoli</span>
                   </a>
                 </div>
                 <div class="post-date">
-                  <span class="bi bi-clock"></span> 10 min
+                  <span class="bi bi-calendar"></span> 2020
                 </div>
               </div>
             </div>
-          </div>
+          </div> <!-- End Turin Section -->
+
+         
         </div>
       </div>
     </section><!-- End Portfolio Section -->

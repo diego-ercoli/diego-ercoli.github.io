@@ -1,21 +1,18 @@
 function customize(box_name) {
-    /*
-    $("#" + box_name).css({
-        "background-image": "url('assets/img/counters-bg.jpg')",      
-    });*/
+    type = box_name.split('_')[0].toUpperCase();;
 
+    // Modify the box replacing css properties
     $("#" + box_name).css({
         "background-image": "url('assets/img/sfondo_blu.jpeg')"
-        //"background-color": "Dodgerblue",     
     });
-    /*
-    $("#" + box_name).css({
-        "color": "white" // Set text color to white
-    });*/
     $("#" + box_name).find("h2").css("color", "Goldenrod");
     $("#" + box_name).find(".bi").css("color", "red");
     $("#" + box_name).find(".ico-circle").css("background-color", '#f0f0f0');
     $("#" + box_name).find(".s-description").css("color", 'Lightgrey');
+
+    // Set the type of category
+    $("#project_type").html("List of <b> " + type + " </b> projects.");
+
 } 
 
 
