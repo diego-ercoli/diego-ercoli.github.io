@@ -13,14 +13,21 @@ function customize(box_name) {
     // Set the type of category
     $("#project_type").html("List of <b> " + type + " </b> projects.");
 
+    //Show category section
+    str1 = '#'+type.toLowerCase()+"_" + "section"
+    $(str1).show();
 } 
 
 
 $(document).ready(function () {
+    $("#web_section").hide();
+    $("#data_section").hide();
+    $("#ai_section").hide();
+
     // Check if the URL contains '?data'
     if (window.location.href.indexOf('?web') > -1) {
-      // Change the background color of the service-box related to Data Analytics
-      customize('web_box');
+        // Change the background color of the service-box related to Data Analytics
+        customize('web_box');
     }
 
     if (window.location.href.indexOf('?data') > -1) {
@@ -32,5 +39,4 @@ $(document).ready(function () {
         // Change the background color of the service-box related to Data Analytics
         customize('ai_box');
     }
-
   });
