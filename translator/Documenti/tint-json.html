@@ -1,0 +1,36 @@
+
+<!DOCTYPE html>
+<html>
+<meta charset="UTF-8">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+
+<script>
+
+function send(){
+	 $.ajax("https://dh.fbk.eu/tint-server", {
+            dataType: "json",
+            method: "POST",
+            data: {
+                text: $(input).val() 
+            },
+
+            success: function (data) {
+            	var fileJson = JSON.stringify(data, undefined, 4);
+            	$(output).val(fileJson) 
+            }
+        });
+}    
+       
+</script>
+</head>
+<body>
+<form id="target" >
+	<h2>Inserisci frase</h2>
+	<input id="input" type="text" size=50" >
+	<input type="button" value="Get JSON" onclick="send()"> 
+</form>
+<h2>Json Output</h2>
+<textarea id="output" cols="80" rows="50" id="message" name="message"></textarea></dd>
+
+</body>
+</html> 

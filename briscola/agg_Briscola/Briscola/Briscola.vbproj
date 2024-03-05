@@ -1,0 +1,376 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{80FAEF88-A2FB-4199-9E24-85FAB45EA378}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Briscola.My.MyApplication</StartupObject>
+    <RootNamespace>Briscola</RootNamespace>
+    <AssemblyName>Briscola</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Briscola.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Briscola.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="risorse_carte">
+      <HintPath>..\..\gioco_carte\Mano_giocatore\obj\Release\risorse_carte.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Partita.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Partita.Designer.vb">
+      <DependentUpon>Partita.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Partita.resx">
+      <DependentUpon>Partita.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\assecoppe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\asso de denari.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\assobastoni.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\assospade.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cavallobastoni.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cavallocoppe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cavallodenari.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cavallospade.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cinquebastoni.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cinquecoppe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cinquedenari.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cinquespade.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\duebastoni.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\duecoppe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\duedenari.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\duespade.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fantebastoni.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fantecoppe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fantedenari.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fantespade.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\quattrobastoni.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\quattrocoppe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\quattrodenari.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\quattrospade.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rebastoni.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\recoppe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\redenari.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\respade.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\seibastoni.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\seicoppe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\seidenari.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\seispade.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\settebastoni.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\settecoppe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\settedenari.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\settespade.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trebastoni.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trecoppe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tredenari.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trespade.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tema2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sfondo.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\retro.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Carte_piacentine_al_completo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mazzo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cartestravinte.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\carte-vinte.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mazzo1.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mazzo2.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DEFINITIVO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Guns N%27 Roses - 04 - Paradise City.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cvinte.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\assecoppe1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\assobastoni1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\asso de denari1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\assospade1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cavallobastoni1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cavallocoppe1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cavallodenari1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cavallospade1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cvinte1.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\assecoppe2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\assobastoni2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\asso de denari2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\assospade2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cavallobastoni2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cavallocoppe2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cavallodenari2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cavallospade2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cinquebastoni1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cinquecoppe1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cinquedenari1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cinquespade1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\duebastoni1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\duecoppe1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

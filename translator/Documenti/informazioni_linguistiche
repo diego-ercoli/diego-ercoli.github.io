@@ -1,0 +1,14 @@
+Forma passiva: 
+	-relazione auxpass tra verbo e ausiliare "accanto"
+Tempo verbale MODO INDI:
+	//ATTIVA & NOT(AUSILIARE)
+	-!(aux): tempo(verbo)
+	//ATTIVA & AUSILIARE
+	-aux: tempo(aux)
+	
+	//PASSIVA & NOT("stato")
+	-auxpass: tempo(auxpass)
+	//PASSIVA & "stato" & tempo(aux)==present
+	-auxpass & aux & tempo(aux)==present: past
+	//PASSIVA & "stato" 
+	-auxpass & aux: tense(aux)

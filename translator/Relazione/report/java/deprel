@@ -1,0 +1,15 @@
+public enum RELATION {
+    ROOT, /**ROOT**/
+    COP, /**COPULA**/
+    DET, /**DETERMINER**/
+    NMOD, /**NOMINAL MODIFIER **/
+    CASE, /**CASE MARKING (e.g. prepositions) **/
+    DET_POSS, /**POSSIVE DETERMINER (e.g possessive adjectives)**/
+    AUX, /**AUXILIARY **/
+    AUXPASS, /** PASSIVE AUXILIARY (e.g italian 'stato'/'stati') **/
+    DOBJ, /**DIRECT OBJECT (e.g 'italian' complemento oggetto)**/
+    AMOD, /**ADJECTIVAL MODIFIER (e.g adjective)*/
+    NSUBJ_PASS, /** PASSIVE NOMINAL SUBJECT */
+    NSUBJ, /**NOMINAL SUBJECT */
+    ADVMOD /** ADVERBIAL MODIFIER*/
+}

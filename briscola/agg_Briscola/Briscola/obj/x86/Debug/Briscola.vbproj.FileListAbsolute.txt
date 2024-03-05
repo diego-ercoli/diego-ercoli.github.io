@@ -1,0 +1,163 @@
+C:\Documents and Settings\Diego\Impostazioni locali\Dati applicazioni\Temporary Projects\Briscola\bin\Debug\Briscola.exe
+C:\Documents and Settings\Diego\Impostazioni locali\Dati applicazioni\Temporary Projects\Briscola\bin\Debug\Briscola.pdb
+C:\Documents and Settings\Diego\Impostazioni locali\Dati applicazioni\Temporary Projects\Briscola\bin\Debug\Briscola.xml
+C:\Documents and Settings\Diego\Impostazioni locali\Dati applicazioni\Temporary Projects\Briscola\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Diego\Impostazioni locali\Dati applicazioni\Temporary Projects\Briscola\obj\x86\Debug\Briscola.Form1.resources
+C:\Documents and Settings\Diego\Impostazioni locali\Dati applicazioni\Temporary Projects\Briscola\obj\x86\Debug\Briscola.Resources.resources
+C:\Documents and Settings\Diego\Impostazioni locali\Dati applicazioni\Temporary Projects\Briscola\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Diego\Impostazioni locali\Dati applicazioni\Temporary Projects\Briscola\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Diego\Impostazioni locali\Dati applicazioni\Temporary Projects\Briscola\obj\x86\Debug\Briscola.exe
+C:\Documents and Settings\Diego\Impostazioni locali\Dati applicazioni\Temporary Projects\Briscola\obj\x86\Debug\Briscola.xml
+C:\Documents and Settings\Diego\Impostazioni locali\Dati applicazioni\Temporary Projects\Briscola\obj\x86\Debug\Briscola.pdb
+G:\jenkinson(QBED00)\giochi creati da me\Visual_basic\Briscola\Briscola\obj\x86\Debug\Briscola.exe
+G:\jenkinson(QBED00)\giochi creati da me\Visual_basic\Briscola\Briscola\obj\x86\Debug\Briscola.xml
+G:\jenkinson(QBED00)\giochi creati da me\Visual_basic\Briscola\Briscola\obj\x86\Debug\Briscola.pdb
+G:\jenkinson(QBED00)\giochi creati da me\Visual_basic\Briscola\Briscola\bin\Debug\Briscola.exe
+G:\jenkinson(QBED00)\giochi creati da me\Visual_basic\Briscola\Briscola\bin\Debug\Briscola.pdb
+G:\jenkinson(QBED00)\giochi creati da me\Visual_basic\Briscola\Briscola\bin\Debug\Briscola.xml
+G:\jenkinson(QBED00)\giochi creati da me\Visual_basic\Briscola\Briscola\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\jenkinson(QBED00)\giochi creati da me\Visual_basic\Briscola\Briscola\obj\x86\Debug\Briscola.Form1.resources
+G:\jenkinson(QBED00)\giochi creati da me\Visual_basic\Briscola\Briscola\obj\x86\Debug\Briscola.Resources.resources
+G:\jenkinson(QBED00)\giochi creati da me\Visual_basic\Briscola\Briscola\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\jenkinson(QBED00)\giochi creati da me\Visual_basic\Briscola\Briscola\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\jenkinson(QBED00)\giochi creati da me\Visual_basic\Briscola\Briscola\obj\x86\Debug\Briscola.exe
+F:\jenkinson(QBED00)\giochi creati da me\Visual_basic\Briscola\Briscola\obj\x86\Debug\Briscola.xml
+F:\jenkinson(QBED00)\giochi creati da me\Visual_basic\Briscola\Briscola\obj\x86\Debug\Briscola.pdb
+F:\jenkinson(QBED00)\giochi creati da me\Visual_basic\Briscola\Briscola\bin\Debug\Briscola.exe
+F:\jenkinson(QBED00)\giochi creati da me\Visual_basic\Briscola\Briscola\bin\Debug\Briscola.pdb
+F:\jenkinson(QBED00)\giochi creati da me\Visual_basic\Briscola\Briscola\bin\Debug\Briscola.xml
+F:\jenkinson(QBED00)\giochi creati da me\Visual_basic\Briscola\Briscola\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\jenkinson(QBED00)\giochi creati da me\Visual_basic\Briscola\Briscola\obj\x86\Debug\Briscola.Form1.resources
+F:\jenkinson(QBED00)\giochi creati da me\Visual_basic\Briscola\Briscola\obj\x86\Debug\Briscola.Resources.resources
+F:\jenkinson(QBED00)\giochi creati da me\Visual_basic\Briscola\Briscola\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\jenkinson(QBED00)\giochi creati da me\Visual_basic\Briscola\Briscola\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\jenkinson(QBED00)\giochi creati da me\Visual_basic\Briscola\Briscola\obj\x86\Debug\Briscola.exe
+J:\jenkinson(QBED00)\giochi creati da me\Visual_basic\Briscola\Briscola\obj\x86\Debug\Briscola.xml
+J:\jenkinson(QBED00)\giochi creati da me\Visual_basic\Briscola\Briscola\obj\x86\Debug\Briscola.pdb
+J:\jenkinson(QBED00)\giochi creati da me\Visual_basic\Briscola\Briscola\bin\Debug\Briscola.exe
+J:\jenkinson(QBED00)\giochi creati da me\Visual_basic\Briscola\Briscola\bin\Debug\Briscola.pdb
+J:\jenkinson(QBED00)\giochi creati da me\Visual_basic\Briscola\Briscola\bin\Debug\Briscola.xml
+J:\jenkinson(QBED00)\giochi creati da me\Visual_basic\Briscola\Briscola\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\jenkinson(QBED00)\giochi creati da me\Visual_basic\Briscola\Briscola\obj\x86\Debug\Briscola.Form1.resources
+J:\jenkinson(QBED00)\giochi creati da me\Visual_basic\Briscola\Briscola\obj\x86\Debug\Briscola.Resources.resources
+J:\jenkinson(QBED00)\giochi creati da me\Visual_basic\Briscola\Briscola\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\jenkinson(QBED00)\giochi creati da me\Visual_basic\Briscola\Briscola\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\jenkinson(QBED00)\giochi creati da me\Visual_basic\Briscola\Briscola\obj\x86\Debug\Interop.WMPLib.dll
+G:\jenkinson(QBED00)\giochi creati da me\Visual_basic\Briscola\Briscola\obj\x86\Debug\AxInterop.WMPLib.dll
+G:\jenkinson(QBED00)\giochi creati da me\Visual_basic\Briscola\Briscola\obj\x86\Debug\Briscola.vbproj.ResolveComReference.cache
+G:\jenkinson(QBED00)\giochi creati da me\Visual_basic\Briscola\Briscola\bin\Debug\Interop.WMPLib.dll
+G:\jenkinson(QBED00)\giochi creati da me\Visual_basic\Briscola\Briscola\bin\Debug\AxInterop.WMPLib.dll
+J:\jenkinson(QBED00)\giochi creati da me\Visual_basic\Briscola\Briscola\obj\x86\Debug\Interop.WMPLib.dll
+J:\jenkinson(QBED00)\giochi creati da me\Visual_basic\Briscola\Briscola\obj\x86\Debug\AxInterop.WMPLib.dll
+J:\jenkinson(QBED00)\giochi creati da me\Visual_basic\Briscola\Briscola\obj\x86\Debug\Briscola.vbproj.ResolveComReference.cache
+J:\jenkinson(QBED00)\giochi creati da me\Visual_basic\Briscola\Briscola\bin\Debug\Interop.WMPLib.dll
+J:\jenkinson(QBED00)\giochi creati da me\Visual_basic\Briscola\Briscola\bin\Debug\AxInterop.WMPLib.dll
+F:\jenkinson(QBED00)\giochi creati da me\Visual_basic\Briscola\Briscola\obj\x86\Debug\Interop.WMPLib.dll
+F:\jenkinson(QBED00)\giochi creati da me\Visual_basic\Briscola\Briscola\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\jenkinson(QBED00)\giochi creati da me\Visual_basic\Briscola\Briscola\obj\x86\Debug\Briscola.vbproj.ResolveComReference.cache
+F:\jenkinson(QBED00)\giochi creati da me\Visual_basic\Briscola\Briscola\bin\Debug\Interop.WMPLib.dll
+F:\jenkinson(QBED00)\giochi creati da me\Visual_basic\Briscola\Briscola\bin\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\Diego\Desktop\Briscola\Briscola\obj\x86\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\Diego\Desktop\Briscola\Briscola\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\Diego\Desktop\Briscola\Briscola\obj\x86\Debug\Briscola.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Diego\Desktop\Briscola\Briscola\obj\x86\Debug\Briscola.xml
+C:\Documents and Settings\Diego\Desktop\Briscola\Briscola\obj\x86\Debug\Briscola.pdb
+C:\Documents and Settings\Diego\Desktop\Briscola\Briscola\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Diego\Desktop\Briscola\Briscola\obj\x86\Debug\Briscola.Form1.resources
+C:\Documents and Settings\Diego\Desktop\Briscola\Briscola\obj\x86\Debug\Briscola.Resources.resources
+C:\Documents and Settings\Diego\Desktop\Briscola\Briscola\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Diego\Desktop\Briscola\Briscola\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Diego\Desktop\Briscola\Briscola\bin\Debug\Briscola.exe
+C:\Documents and Settings\Diego\Desktop\Briscola\Briscola\bin\Debug\Briscola.pdb
+C:\Documents and Settings\Diego\Desktop\Briscola\Briscola\bin\Debug\Briscola.xml
+C:\Documents and Settings\Diego\Desktop\Briscola\Briscola\bin\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\Diego\Desktop\Briscola\Briscola\bin\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\Diego\Desktop\Briscola\Briscola\obj\x86\Debug\Briscola.exe
+G:\jenkinson(QBED00)\giochi creati da me\Visual_basic\agg_Briscola\Briscola\obj\x86\Debug\Interop.WMPLib.dll
+G:\jenkinson(QBED00)\giochi creati da me\Visual_basic\agg_Briscola\Briscola\obj\x86\Debug\AxInterop.WMPLib.dll
+G:\jenkinson(QBED00)\giochi creati da me\Visual_basic\agg_Briscola\Briscola\obj\x86\Debug\Briscola.vbproj.ResolveComReference.cache
+G:\jenkinson(QBED00)\giochi creati da me\Visual_basic\agg_Briscola\Briscola\obj\x86\Debug\Briscola.exe
+G:\jenkinson(QBED00)\giochi creati da me\Visual_basic\agg_Briscola\Briscola\obj\x86\Debug\Briscola.xml
+G:\jenkinson(QBED00)\giochi creati da me\Visual_basic\agg_Briscola\Briscola\obj\x86\Debug\Briscola.pdb
+G:\jenkinson(QBED00)\giochi creati da me\Visual_basic\agg_Briscola\Briscola\bin\Debug\Briscola.exe
+G:\jenkinson(QBED00)\giochi creati da me\Visual_basic\agg_Briscola\Briscola\bin\Debug\Briscola.pdb
+G:\jenkinson(QBED00)\giochi creati da me\Visual_basic\agg_Briscola\Briscola\bin\Debug\Briscola.xml
+G:\jenkinson(QBED00)\giochi creati da me\Visual_basic\agg_Briscola\Briscola\bin\Debug\Interop.WMPLib.dll
+G:\jenkinson(QBED00)\giochi creati da me\Visual_basic\agg_Briscola\Briscola\bin\Debug\AxInterop.WMPLib.dll
+G:\jenkinson(QBED00)\giochi creati da me\Visual_basic\agg_Briscola\Briscola\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\jenkinson(QBED00)\giochi creati da me\Visual_basic\agg_Briscola\Briscola\obj\x86\Debug\Briscola.Form1.resources
+G:\jenkinson(QBED00)\giochi creati da me\Visual_basic\agg_Briscola\Briscola\obj\x86\Debug\Briscola.Resources.resources
+G:\jenkinson(QBED00)\giochi creati da me\Visual_basic\agg_Briscola\Briscola\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\jenkinson(QBED00)\giochi creati da me\Visual_basic\agg_Briscola\Briscola\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\jenkinson(QBED00)\giochi creati da me\Visual_basic\agg_Briscola\Briscola\obj\x86\Debug\Interop.WMPLib.dll
+E:\jenkinson(QBED00)\giochi creati da me\Visual_basic\agg_Briscola\Briscola\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\jenkinson(QBED00)\giochi creati da me\Visual_basic\agg_Briscola\Briscola\obj\x86\Debug\Briscola.vbproj.ResolveComReference.cache
+E:\jenkinson(QBED00)\giochi creati da me\Visual_basic\agg_Briscola\Briscola\obj\x86\Debug\Briscola.exe
+E:\jenkinson(QBED00)\giochi creati da me\Visual_basic\agg_Briscola\Briscola\obj\x86\Debug\Briscola.xml
+E:\jenkinson(QBED00)\giochi creati da me\Visual_basic\agg_Briscola\Briscola\obj\x86\Debug\Briscola.pdb
+E:\jenkinson(QBED00)\giochi creati da me\Visual_basic\agg_Briscola\Briscola\bin\Debug\Briscola.exe
+E:\jenkinson(QBED00)\giochi creati da me\Visual_basic\agg_Briscola\Briscola\bin\Debug\Briscola.pdb
+E:\jenkinson(QBED00)\giochi creati da me\Visual_basic\agg_Briscola\Briscola\bin\Debug\Briscola.xml
+E:\jenkinson(QBED00)\giochi creati da me\Visual_basic\agg_Briscola\Briscola\bin\Debug\Interop.WMPLib.dll
+E:\jenkinson(QBED00)\giochi creati da me\Visual_basic\agg_Briscola\Briscola\bin\Debug\AxInterop.WMPLib.dll
+E:\jenkinson(QBED00)\giochi creati da me\Visual_basic\agg_Briscola\Briscola\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\jenkinson(QBED00)\giochi creati da me\Visual_basic\agg_Briscola\Briscola\obj\x86\Debug\Briscola.Resources.resources
+E:\jenkinson(QBED00)\giochi creati da me\Visual_basic\agg_Briscola\Briscola\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\jenkinson(QBED00)\giochi creati da me\Visual_basic\agg_Briscola\Briscola\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\jenkinson(QBED00)\giochi creati da me\Visual_basic\agg_Briscola\Briscola\obj\x86\Debug\Briscola.Form_gioco.resources
+F:\jenkinson(QBED00)\giochi creati da me\Visual_basic\agg_Briscola\Briscola\obj\x86\Debug\Interop.WMPLib.dll
+F:\jenkinson(QBED00)\giochi creati da me\Visual_basic\agg_Briscola\Briscola\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\jenkinson(QBED00)\giochi creati da me\Visual_basic\agg_Briscola\Briscola\obj\x86\Debug\Briscola.vbproj.ResolveComReference.cache
+F:\jenkinson(QBED00)\giochi creati da me\Visual_basic\agg_Briscola\Briscola\obj\x86\Debug\Briscola.exe
+F:\jenkinson(QBED00)\giochi creati da me\Visual_basic\agg_Briscola\Briscola\obj\x86\Debug\Briscola.xml
+F:\jenkinson(QBED00)\giochi creati da me\Visual_basic\agg_Briscola\Briscola\obj\x86\Debug\Briscola.pdb
+F:\jenkinson(QBED00)\giochi creati da me\Visual_basic\agg_Briscola\Briscola\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\jenkinson(QBED00)\giochi creati da me\Visual_basic\agg_Briscola\Briscola\obj\x86\Debug\Briscola.Form_gioco.resources
+F:\jenkinson(QBED00)\giochi creati da me\Visual_basic\agg_Briscola\Briscola\obj\x86\Debug\Briscola.Resources.resources
+F:\jenkinson(QBED00)\giochi creati da me\Visual_basic\agg_Briscola\Briscola\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\jenkinson(QBED00)\giochi creati da me\Visual_basic\agg_Briscola\Briscola\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\jenkinson(QBED00)\giochi creati da me\Visual_basic\agg_Briscola\Briscola\bin\Debug\Briscola.exe
+F:\jenkinson(QBED00)\giochi creati da me\Visual_basic\agg_Briscola\Briscola\bin\Debug\Briscola.pdb
+F:\jenkinson(QBED00)\giochi creati da me\Visual_basic\agg_Briscola\Briscola\bin\Debug\Briscola.xml
+F:\jenkinson(QBED00)\giochi creati da me\Visual_basic\agg_Briscola\Briscola\bin\Debug\Interop.WMPLib.dll
+F:\jenkinson(QBED00)\giochi creati da me\Visual_basic\agg_Briscola\Briscola\bin\Debug\AxInterop.WMPLib.dll
+E:\jenkinson(QBED00)\giochi creati da me\Visual_basic\agg_Briscola\Briscola\bin\Debug\risorse_carte.dll
+E:\jenkinson(QBED00)\giochi creati da me\Visual_basic\agg_Briscola\Briscola\bin\Debug\risorse_carte.pdb
+F:\diego\giochi creati da me\Visual_basic\agg_Briscola\Briscola\obj\x86\Debug\Interop.WMPLib.dll
+F:\diego\giochi creati da me\Visual_basic\agg_Briscola\Briscola\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\diego\giochi creati da me\Visual_basic\agg_Briscola\Briscola\obj\x86\Debug\Briscola.vbproj.ResolveComReference.cache
+F:\diego\giochi creati da me\Visual_basic\agg_Briscola\Briscola\obj\x86\Debug\Briscola.exe
+F:\diego\giochi creati da me\Visual_basic\agg_Briscola\Briscola\obj\x86\Debug\Briscola.xml
+F:\diego\giochi creati da me\Visual_basic\agg_Briscola\Briscola\obj\x86\Debug\Briscola.pdb
+G:\diego\giochi creati da me\Visual_basic\agg_Briscola\Briscola\obj\x86\Debug\Interop.WMPLib.dll
+G:\diego\giochi creati da me\Visual_basic\agg_Briscola\Briscola\obj\x86\Debug\AxInterop.WMPLib.dll
+G:\diego\giochi creati da me\Visual_basic\agg_Briscola\Briscola\obj\x86\Debug\Briscola.vbproj.ResolveComReference.cache
+G:\diego\giochi creati da me\Visual_basic\agg_Briscola\Briscola\obj\x86\Debug\Briscola.exe
+G:\diego\giochi creati da me\Visual_basic\agg_Briscola\Briscola\obj\x86\Debug\Briscola.xml
+G:\diego\giochi creati da me\Visual_basic\agg_Briscola\Briscola\obj\x86\Debug\Briscola.pdb
+G:\diego\giochi creati da me\Visual_basic\agg_Briscola\Briscola\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\diego\giochi creati da me\Visual_basic\agg_Briscola\Briscola\obj\x86\Debug\Briscola.Form_gioco.resources
+G:\diego\giochi creati da me\Visual_basic\agg_Briscola\Briscola\obj\x86\Debug\Briscola.Resources.resources
+G:\diego\giochi creati da me\Visual_basic\agg_Briscola\Briscola\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\diego\giochi creati da me\Visual_basic\agg_Briscola\Briscola\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\diego\giochi creati da me\Visual_basic\agg_Briscola\Briscola\bin\Debug\Briscola.exe
+G:\diego\giochi creati da me\Visual_basic\agg_Briscola\Briscola\bin\Debug\Briscola.pdb
+G:\diego\giochi creati da me\Visual_basic\agg_Briscola\Briscola\bin\Debug\Briscola.xml
+G:\diego\giochi creati da me\Visual_basic\agg_Briscola\Briscola\bin\Debug\risorse_carte.dll
+G:\diego\giochi creati da me\Visual_basic\agg_Briscola\Briscola\bin\Debug\risorse_carte.pdb
+G:\diego\giochi creati da me\Visual_basic\agg_Briscola\Briscola\bin\Debug\risorse_carte.xml
+G:\diego\giochi creati da me\Visual_basic\agg_Briscola\Briscola\bin\Debug\Interop.WMPLib.dll
+G:\diego\giochi creati da me\Visual_basic\agg_Briscola\Briscola\bin\Debug\AxInterop.WMPLib.dll
+F:\diego\giochi creati da me\Visual_basic\agg_Briscola\Briscola\bin\Debug\Briscola.exe
+F:\diego\giochi creati da me\Visual_basic\agg_Briscola\Briscola\bin\Debug\Briscola.pdb
+F:\diego\giochi creati da me\Visual_basic\agg_Briscola\Briscola\bin\Debug\Briscola.xml
+F:\diego\giochi creati da me\Visual_basic\agg_Briscola\Briscola\bin\Debug\risorse_carte.dll
+F:\diego\giochi creati da me\Visual_basic\agg_Briscola\Briscola\bin\Debug\risorse_carte.pdb
+F:\diego\giochi creati da me\Visual_basic\agg_Briscola\Briscola\bin\Debug\risorse_carte.xml
+F:\diego\giochi creati da me\Visual_basic\agg_Briscola\Briscola\bin\Debug\Interop.WMPLib.dll
+F:\diego\giochi creati da me\Visual_basic\agg_Briscola\Briscola\bin\Debug\AxInterop.WMPLib.dll
+F:\diego\giochi creati da me\Visual_basic\agg_Briscola\Briscola\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\diego\giochi creati da me\Visual_basic\agg_Briscola\Briscola\obj\x86\Debug\Briscola.Resources.resources
+F:\diego\giochi creati da me\Visual_basic\agg_Briscola\Briscola\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\diego\giochi creati da me\Visual_basic\agg_Briscola\Briscola\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Diego\giochi creati da me\Visual_basic\agg_Briscola\Briscola\obj\x86\Debug\Briscola.Partita.resources

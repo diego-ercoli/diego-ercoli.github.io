@@ -1,16 +1,17 @@
 WEB-APP
-1) Fantacalcio
-2) Turin Rentals (Affitti Torino)
-3) Mail Service
+1) #fantacalcio - Fantacalcio 
+2) #affitti - Turin Rentals (Affitti Torino)
+3) #mail - Mail Service
 
 DATA-SCIENCE
-1) Spatio-temporal data analysis (Crime activities)
-2) Forecasting of energy consumption
-3) Fraud Detection (Podcasts)
-4) Sentiment Analysis
+1) #crimes - Spatio-temporal data analysis (Crime activities)
+2) #forecasting - Forecasting of energy consumption
+3) #podcast - Fraud Detection (Podcasts)
+4) #sentiment - Sentiment Analysis
 
 ARTIFICIAL INTELLIGENCE
-1) Text Summarization
-2) Translator (EN->IT)
-3) Briscola Game
-4) Tris
+1) #podcast - Fraud Detection (Podcasts)
+2) #translator - Translator (EN->IT)
+3) #text_summarization - Text Summarization
+4) #briscola - Briscola Game
+NO5) #tris - Tris

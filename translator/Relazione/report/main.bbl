@@ -1,0 +1,21 @@
+\begin{thebibliography}{PM18}
+
+\bibitem[GR09]{simpleNLG}
+A.~Gatt and E.~Reiter.
+\newblock Simplenlg: A realisation engine for practical applications.
+\newblock {\em Proceedings of the 12th European Workshop on Natural Language
+  Generation}, pages 90--93, 2009.
+
+\bibitem[JM09]{book}
+Dan Jurafsky and James~H. Martin.
+\newblock {\em Speech and language processing : an introduction to natural
+  language processing, computational linguistics, and speech recognition}.
+\newblock Pearson Prentice Hall, Upper Saddle River, N.J., 2009.
+
+\bibitem[PM18]{tint_due}
+A.~{Palmero Aprosio} and G.~{Moretti}.
+\newblock Tint 2.0: an all-inclusive suite for nlp in italian.
+\newblock {\em Proceedings of the Fifth Italian Conference on Computational
+  Linguistics CLiC-it}, 10:1--12, 2018.
+
+\end{thebibliography}

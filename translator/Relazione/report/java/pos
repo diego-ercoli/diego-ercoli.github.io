@@ -1,0 +1,12 @@
+public enum POS {
+    PRONOUN, /**pronome**/
+    ADJECTIVE, /**aggettivo**/
+    ADVERB, /**avverbio**/
+    DETERMINER, /** articoli, aggettivi dimostrativi, **/
+    NOUN, /** nomi **/
+    ADJ_POSSESSIVE,
+    PREPOSITION, /** preposizioni **/
+    PUNCTUATION, /**(e.g. dot)**/
+    VERB, /** verbo principale **/
+    AUX_VERB /**Verbo ausiliare**/
+}

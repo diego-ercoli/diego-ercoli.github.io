@@ -1,0 +1,25 @@
+ private Dizionario() {
+            this.items = new HashMap<String, String>() {{
+                put("essere", "be");
+                put("la", "the");
+                put("spada-laser", "light-saber");
+                put("di","of");
+                put("tuo", "your");
+                put("padre", "father");
+
+                put("avere", "have");
+                put("fare", "make");
+                put("una","a");
+                put("mossa","move");
+                put("leale","fair");
+
+                put("il","the");
+                put("ultimo","last");
+                put("avanzo","remnant");
+                put("del","of");
+                put("vecchio","old");
+                put("repubblica","republic");
+                put("spazzare","sweep");
+                put("via","out");
+            }};
+        }

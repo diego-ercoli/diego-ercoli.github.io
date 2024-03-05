@@ -1,0 +1,28 @@
+È la spada laser di tuo padre"
+{word='È', lemma='essere', featuresText='Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin'}
+{word='la', lemma='la', featuresText='Definite=Def|Gender=Fem|Number=Sing|PronType=Art'}
+{word='spada', lemma='spada', featuresText='Gender=Fem|Number=Sing'}
+{word='laser', lemma='laser', featuresText='Gender=Masc|Number=Plur'}
+{word='di', lemma='di', featuresText='_'}
+{word='tuo', lemma='tuo', featuresText='Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs'}
+{word='padre', lemma='padre', featuresText='Gender=Masc|Number=Sing'}
+
+Ha fatto una mossa leale
+{word='Ha', lemma='avere', featuresText='Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin'}
+{word='fatto', lemma='fare', featuresText='Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part'}
+{word='una', lemma='una', featuresText='Definite=Ind|Gender=Fem|Number=Sing|PronType=Art'}
+{word='mossa', lemma='mossa', featuresText='Gender=Fem|Number=Sing'}
+{word='leale', lemma='leale', featuresText='Gender=Masc|Number=Sing'}
+
+
+Gli ultimi avanzi della vecchia Repubblica sono stati spazzati via
+{word='Gli', lemma='il', featuresText='Definite=Def|Gender=Masc|Number=Plur|PronType=Art'}
+{word='ultimi', lemma='ultimo', featuresText='Gender=Masc|NumType=Ord|Number=Plur'}
+{word='avanzi', lemma='avanzo', featuresText='Gender=Masc|Number=Plur'}
+{word='della', lemma='della', featuresText='_'}
+{word='vecchia', lemma='vecchio', featuresText='Gender=Fem|Number=Sing'}
+{word='Repubblica', lemma='repubblica', featuresText='Gender=Fem|Number=Sing'}
+{word='sono', lemma='essere', featuresText='Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin'}
+{word='stati', lemma='essere', featuresText='Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part'}
+{word='spazzati', lemma='spazzare', featuresText='Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part'}
+{word='via', lemma='via', featuresText='_'}
