@@ -22,6 +22,14 @@
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
 
+  <!-- Additional Styles -->
+  <style>
+    #languages {
+      background-color: #f5f5f5; /* Replace with the desired background color */
+      padding: 15px; /* Add padding for better visibility */
+    }
+  </style>
+
   <!-- =======================================================
   * Template Name: DevFolio
   * Updated: Jan 29 2024 with Bootstrap v5.3.2
@@ -79,30 +87,8 @@
       <div class="container">
 
         <div class="row gy-4">
-
-          <div class="col-lg-8">
-            <div class="portfolio-details-slider swiper">
-              <div class="swiper-wrapper align-items-center">
-
-                <div class="swiper-slide">
-                  <img src="assets/img/portfolio-details-1.jpg" alt="">
-                </div>
-
-                <div class="swiper-slide">
-                  <img src="assets/img/portfolio-details-2.jpg" alt="">
-                </div>
-
-                <div class="swiper-slide">
-                  <img src="assets/img/portfolio-details-3.jpg" alt="">
-                </div>
-
-              </div>
-              <div class="swiper-pagination"></div>
-            </div>
-          </div>
-
           <div class="col-lg-4">
-            <div class="portfolio-info">
+            <div id="portfolio-info" class="portfolio-info">
               <h3>Project information</h3>
               <ul>
                 <li><strong>Category</strong>: Web design</li>
@@ -110,17 +96,58 @@
                 <li><strong>Project date</strong>: 01 March, 2020</li>
                 <li><strong>Project URL</strong>: <a href="#">www.example.com</a></li>
               </ul>
-            </div>
-            <div class="portfolio-description">
-              <h2>This is an example of portfolio detail</h2>
-              <p>
-                Autem ipsum nam porro corporis rerum. Quis eos dolorem eos itaque inventore commodi labore quia quia. Exercitationem repudiandae officiis neque suscipit non officia eaque itaque enim. Voluptatem officia accusantium nesciunt est omnis tempora consectetur dignissimos. Sequi nulla at esse enim cum deserunt eius.
-              </p>
+              <div id ='languages' class="widget-sidebar widget-tags">
+              <h5>Technologies</h5>
+                <ul>
+                  <li>
+                    <a href="#">Web.</a>
+                  </li>
+                  <li>
+                    <a href="#">Design.</a>
+                  </li>
+                  <li>
+                    <a href="#">Travel.</a>
+                  </li>
+                  <li>
+                    <a href="#">Photoshop</a>
+                  </li>
+                  <li>
+                    <a href="#">Corel Draw</a>
+                  </li>
+                  <li>
+                    <a href="#">JavaScript</a>
+                  </li>
+                </ul>
+              </div>
             </div>
           </div>
-
+            <div class="col-lg-8">
+              <div class="portfolio-details-slider swiper">
+                <div class="swiper-wrapper align-items-center">
+  
+                  <div class="swiper-slide">
+                    <img src="assets/img/portfolio-details-1.jpg" alt="">
+                  </div>
+  
+                  <div class="swiper-slide">
+                    <img src="assets/img/portfolio-details-2.jpg" alt="">
+                  </div>
+  
+                  <div class="swiper-slide">
+                    <img src="assets/img/portfolio-details-3.jpg" alt="">
+                  </div>
+  
+                </div>
+                <div class="swiper-pagination"></div>
+              </div>
+            </div>
         </div>
-
+        <div class="portfolio-description">
+          <h2>This is an example of portfolio detail</h2>
+          <p>
+            Autem ipsum nam porro corporis rerum. Quis eos dolorem eos itaque inventore commodi labore quia quia. Exercitationem repudiandae officiis neque suscipit non officia eaque itaque enim. Voluptatem officia accusantium nesciunt est omnis tempora consectetur dignissimos. Sequi nulla at esse enim cum deserunt eius.
+          </p>
+        </div>
       </div>
     </section><!-- End Portfolio Details Section -->
 
