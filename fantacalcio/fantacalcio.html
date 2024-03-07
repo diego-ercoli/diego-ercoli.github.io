@@ -21,34 +21,8 @@
 
   <!-- Template Main CSS File -->
   <link href="/../assets/css/style.css" rel="stylesheet">
+  <link href="/../assets/css/portfolio_details.css" rel="stylesheet">
 
-  <!-- Additional Styles -->
-  <style>
-    #languages {
-      background-color: #f5f5f5; /* Replace with the desired background color */
-      padding: 15px; /* Add padding for better visibility */
-    }
-    .hero-title.mb-4 {
-      color: silver ; /* Hexadecimal value for gold */
-      text-transform: lowercase;
-    }
-    .hero-title.mb-4::first-letter {
-      text-transform: uppercase;
-    }
-    .custom-btn-sm {
-      padding: 0.25rem 0.5rem; /* Adjust padding for the desired size */
-      font-size: 0.875rem; /* Adjust font size for the desired size */
-      line-height: 1; /* Adjust line height if necessary */
-    }
-  </style>
-
-  <!-- =======================================================
-  * Template Name: DevFolio
-  * Updated: Jan 29 2024 with Bootstrap v5.3.2
-  * Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
 </head>
 
 <body>
@@ -106,24 +80,24 @@
                 <li><strong>Category</strong>: Web-APP</li>
                 <li><strong>Client</strong>: University Project</li>
                 <li><strong>Project year</strong>: 2017</li>
-                <li><strong>Project URL</strong>: 
+                <!--  
+                <li><strong>Project</strong>: 
                     </span> 
                       <button type="button" class="btn btn-secondary btn-sm custom-btn-sm" onclick="window.open('https://www.linkedin.com/in/diego-ercoli-041772176/', '_blank')">
                         code
                       </button>
-                <!-- <a href="https://www.linkedin.com/in/diego-ercoli-041772176/" target="_blank">Profile</a> -->
                     </span>
-                  
-                  <!-- <a href="#">www.example.com</a></li> -->
+                  </li>
+                -->                  
               </ul>
               <div id ='languages' class="widget-sidebar widget-tags">
-              <h5>Technologies</h5>
+              <h5>Technologies and Methodologies</h5>
                 <ul>
                   <li>
                     <a href="#">JAVA</a>
                   </li>
                   <li>
-                    <a href="#">Hybernate Framework</a>
+                    <a href="#">Hibernate Framework</a>
                   </li>
                   <li>
                     <a href="#">MVC</a>
@@ -166,21 +140,57 @@
             </div>
         </div>
         <div class="portfolio-description">
-          WEB-APP developed firsty for the University Exam: "WEB Programming" taken in the Bachelor's Degree. <br>
-          See the <b>presentation</b> to get an idea about the platform.
+          WEB-APP developed originally for the University Exam: "WEB Programming" taken in the Bachelor's Degree. <br>
+          See the <b>presentation</b> to get an overall idea about the platform and the underlying architecture.
 
           <div id="title">
             <br>
-            <h1>Presentation:</h1>
+            <h1>Presentation of the Platform:</h1>
           </div>
+          <div style="text-align: center;">
+            <a href="Presentazione Project.pdf" target="_blank" rel="nofollow">
+                        <img src="img/preview_presentation1.png" alt="Watch the presentation" style="max-width: 80%;">
+            </a>
+          </div>
+          <!-- 
           <div style="text-align: center;">
             <embed src="Presentazione Project.pdf" style="max-width: 100%;" height="700"> <br>
             <p style="text-align: center;">Open in a full page: <a href="Presentazione Project.pdf">PDF Presentation</a>.</p>
-          </div>
+          </div>-->
+
+          <br> <!-- Add a line break here -->
           
+          As mentioned, in the last slide, some optimization problems in this platform are NP problems and ad-hoc solutions
+          need to be studied. 
 
+          A problem, which is a particular version of the <b> Knapsack </b> one, is worth to be described. <br> Assume a list of n football players provided by Gazzetta dello Sport. 
+          Each player is assigned one of the following positions: 
+          
+          <ul>
+            <li>Goalkeeper (P)</li>
+            <li>Defender (D)</li>
+            <li>Midfielder (C)</li>
+            <li>Forward (A)</li>
+        </ul>
+          
+          Additionally, each player has a specific price (or cost) w, updated by the newspaper after each official Serie A matchday. Moreover, each player is associated with a certain value v, computed as the average of their performance ratings throughout the season.
+          Given a certain budget, the <b>objective</b> is to purchase exactly a certain number of players for each position, aiming to maximize the overall value of the assembled team. <br>
 
+          See the next slides for a detailed formulation of the solution has been provided based on Dynamic Programming.
         </div>
+        <div id="title">
+          <br>
+          <h1>Solution for the NP-Problem</h1>
+        </div>
+        <div style="text-align: center;">
+          <a href="Presentation.pdf" target="_blank" rel="nofollow">
+                      <img src="img/preview_thesis.png" alt="Watch the presentation" style="max-width: 80%;">
+          </a>
+        </div>   
+
+        <br> <!-- Add a line break here -->
+
+
       </div>
     </section><!-- End Portfolio Details Section -->
 
@@ -193,14 +203,6 @@
         <div class="col-sm-12">
           <div class="copyright-box">
             <p class="copyright">&copy; Copyright . All Rights Reserved</p>
-            <div class="credits">
-              <!--
-              All the links in the footer should remain intact.
-              You can delete the links only if you purchased the pro version.
-              Licensing information: https://bootstrapmade.com/license/
-              Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=DevFolio
-            -->
-            </div>
           </div>
         </div>
       </div>
