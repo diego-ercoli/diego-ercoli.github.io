@@ -15,5 +15,6 @@
     line-height: 1; /* Adjust line height if necessary */
   }
 .portfolio-description {
-    font-size: 25px; /* You can adjust the size as needed */
+    font-size: 23px; /* You can adjust the size as needed */
+    text-align: justify;
 }
